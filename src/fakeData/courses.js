@@ -1,48 +1,48 @@
 const courses = [
     {
-        "id": 2,
+        "id": 1,
         "title": "Mastering in JavaScript",
         "price": 179,
         "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "React - Advanced",
         "price": 199,
         "img": "https://www.freecodecamp.org/news/content/images/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Angular Mastery",
         "price": 120,
         "img": "https://www.freecodecamp.org/news/content/images/2020/04/Copy-of-Copy-of-Travel-Photography.png"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "React native - Complete Guide",
         "price": 89,
         "img": "https://codersera.com/blog/wp-content/uploads/2019/02/react-native.png"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "NodeJS - Complete Guide",
         "price": 99,
         "img": "https://miro.medium.com/max/4540/1*q9ww_u32hhpMaA-Q_s1ujw.png"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "The Complete C# Course For Beginner",
         "price": 449,
         "img": "https://miro.medium.com/max/750/0*xi65JdGfBmvakCGl.jpg"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "MongoDB - The Complete Developer's Guide",
         "price": 219,
         "img": "https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-big-data-on-demand-with-mongodb.jpg"
     },
     {
-        "id": 1,
+        "id": 8,
         "title": "Complete Web Development",
         "price": 250,
         "img": "https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg"

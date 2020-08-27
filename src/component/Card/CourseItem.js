@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const CourseItem = (props) => {
     const { title, price, img } = props.courses;
-    console.log(title);
 
     const style = {
         width: '20rem',
@@ -20,7 +19,7 @@ const CourseItem = (props) => {
             <Card.Body>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>Price: ${price}</Card.Text>
-                <Button variant="success">Enroll Now</Button>
+                <Button variant="success" onClick={() => props.handleAddCourses(props.courses)}>Enroll Now</Button>
             </Card.Body>
         </Card>
 

@@ -3,3 +3,13 @@
     width:150px;
     margin:auto;
 }
+.cart-section{
+    width:40%;
+    margin:auto;
+    background: rgb(253, 252, 239);
+    border-radius:7px;
+    font-family: 'Poppins', sans-serif;
+    color:#0a0a0a;
+    box-shadow: 1px 1px 5px grey;
+
+}
